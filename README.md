@@ -1,5 +1,5 @@
 # **Me Presento**
-Buenass, soy Gianfranco Lema De Filippo, tengo 19 años cumplidos hoy, vivo en Gral. Rodriguez, mi legajo es 2096092 y este es mi segundo año en la UTN.
+Buenass, soy Gianfranco Lema De Filippo, tengo 19 años cumplidos el 1 de Abril del 2023, vivo en Gral. Rodriguez, mi legajo es 2096092 y este es mi segundo año en la UTN.
 
 ![20230108_005719](https://user-images.githubusercontent.com/129530201/229315273-94c71c02-432f-437d-9acc-ed44a45274bd.jpg)
 
